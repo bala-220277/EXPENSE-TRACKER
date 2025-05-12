@@ -1,0 +1,6 @@
+npm run dev
+npm run genkit:dev
+npm run genkit:watch
+npm run build
+npm run start
+npm run lint
